@@ -5,7 +5,7 @@
 <br>HELLO ITS me <BR>
 <H1>MY BASIC KNOWLEDGE OF PROGRAMMING JOURNEY INCLUDES </H1>
 <H3>BOLD WAY OF USING HTML AND CSS AND JAVASCRIPT AS MY PROGRAMMING JOURNEY STARTUP AND CODE HANDLER </H3>
-<i>THIS is my way of coding and documenting things and way of actually tracking up my development journey</i>
+
 <div>
-  <img src="">
+  
 </div>
